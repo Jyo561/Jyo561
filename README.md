@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Jyo561/Jyo561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on VueJS and a bit of MEVN
 - 🌱 I’m currently learning Nativescript-Vue
