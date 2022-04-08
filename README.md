@@ -33,7 +33,7 @@ GSSoC22 Participant
 
 <h3 align="center"> Browsers: </h3>
 <p align="center">
-    ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
   </p>
 
 <h3 align="center"> Technologies: </h3>
