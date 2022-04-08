@@ -3,7 +3,7 @@
 ## <p align="center">Hello there,</p>
 >> # <p align="center">I'm  <img src="hi.gif" width="40px"> Jyotiraditya Kuanar - Sort Of </p>
 >> ------
->> [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FAFF0F&lines=Hey!+I+am+Khalid%2C+Welcome+to+Github!)](https://git.io/typing-svg)
+>> [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FAFF0F&lines=Hey!+I+am+Jyotiraditya%2C+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 
 GSSoC22 Participant
