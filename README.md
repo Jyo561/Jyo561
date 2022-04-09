@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## <p align="center">Hello there,</p>
->> # <p align="center">I'm  <img src="hi.gif" width="40px"> Jyotiraditya Kuanar - Web Developer</p>
+>> # <p align="center">I'm Jyotiraditya Kuanar - Web Developer</p>
 >> ------
 >> [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+Jyotiraditya%2C+Welcome+to+my+;Github+Profile.)](https://git.io/typing-svg)
 
