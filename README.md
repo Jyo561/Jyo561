@@ -12,7 +12,7 @@ GSSoC22 Participant
 
 - 🔭 I’m currently working on Yew.rs,Rust based framework
 - 🌱 I’m currently learning Rust Machine Learning Techniques
-- 👯 I’m looking to collaborate with Web developers(Vue developers preferred)
+- 👯 I’m looking to collaborate with Web developers(Rust developers preferred)
 - 🤔 I’m looking for help with making industry based apps
 - 💬 Ask me about VueJS,Java,Rust and Python
 - 📫 How to reach me: ...
