@@ -10,15 +10,11 @@ GSSoC22 Participant
 
 
 
-- 🔭 I’m currently working on Yew.rs,Sycamore.rs,Rust based framework
-- 🌱 I’m currently learning Rust Machine Learning Techniques
-- 👯 I’m looking to collaborate with Web developers(Rust developers preferred)
+- 🔭 I’m currently working on MERN, Python, Rust based frameworks
+- 🌱 I’m currently learning to make industry grade projects
+- 👯 I’m looking to collaborate with Developers with a knack to build products 
 - 🤔 I’m looking for help with making industry based apps
-- 💬 Ask me about VueJS,Java,Rust and Python
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I tend to be Jack of all trades
-
+- 💬 Ask me about VueJS,Java,Rust, Linux and Python
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/jyotiraditya-kuanar-8b39b7207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidk799" height="30" width="40" /></a>
