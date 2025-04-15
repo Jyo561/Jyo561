@@ -55,7 +55,7 @@ GSSoC22 Participant
   
   <h3 align="center"> Editors: </h3>
   <p align="center">
-    <img src="./acode-editor-badge.svg">
+    <img src="./Acode.svg">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
