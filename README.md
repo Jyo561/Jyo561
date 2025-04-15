@@ -24,7 +24,7 @@ GSSoC22 Participant
 <p aligh="center">
   
   ![Jyo561's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyo561)
-  [![Jyo561's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyo561&theme=blue-green)](https://github.com/Jyo561/github-readme-streak-stats)  
+  [![Jyo561's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyo561&theme=blue-green)]  
   </p>
 
 <h3 align="center"> Browsers: </h3>
