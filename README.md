@@ -70,16 +70,15 @@ GSSoC22 Participant
     <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   </p>
 
-  <h3 align="center"> Blog: </h3>
+  <h3 align="center"> CLoud: </h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </p>
 
-  <h3 align="center"> Cloud: </h3>
+  <h3 align="center"> Blog: </h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    <a href="https://medium.com/@jyotiradityakuanar34" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   </p>
 
   <h3 align="center"> Database: </h3>
