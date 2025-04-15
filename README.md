@@ -77,6 +77,7 @@ GSSoC22 Participant
 
   <h3 align="center"> Blog: </h3>
   <p align="center">
+    <a href="https://dev.to/jyo561"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
     <a href="https://medium.com/@jyotiradityakuanar34" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   </p>
 
