@@ -1,0 +1,15 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="32" role="img" aria-label="Acode Editor">
+  <rect width="170" height="32" fill="#1e1e1e" rx="6" />
+  <g font-family="Segoe UI, sans-serif" font-weight="bold">
+    <!-- Angle Bracket Left -->
+    <text x="10" y="21" font-size="16" fill="#2196f3">&lt;</text>
+    <!-- A -->
+    <text x="22" y="21" font-size="16" fill="#2196f3">A</text>
+    <!-- Angle Bracket Right -->
+    <text x="34" y="21" font-size="16" fill="#2196f3">&gt;</text>
+
+    <!-- ACODE EDITOR -->
+    <text x="55" y="21" font-size="14" fill="#ffffff">ACODE EDITOR</text>
+  </g>
+</svg>
