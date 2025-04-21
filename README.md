@@ -5,9 +5,7 @@
 >> ------
 >> [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+Jyotiraditya%2C+Welcome+to;my+Github+Profile.)](https://git.io/typing-svg)
 
-
-GSSoC22 Participant
-
+🚀 Passionate Software Developer | Web Development | Cybersecurity | Javascript | Python | Rust | Intuitive Developer | GATE CS 24', CS 25' and DA 25' Qualified
 
 
 - 🔭 I’m currently working on MERN, Python, Rust based frameworks
