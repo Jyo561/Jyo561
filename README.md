@@ -3,9 +3,8 @@
 ## <p align="center">Hello there,</p>
 >> # <p align="center">I'm Jyotiraditya Kuanar - Developer by Passion</p>
 >> ------
->> [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+Jyotiraditya%2C+Welcome+to;my+Github+Profile.)](https://git.io/typing-svg)
+>> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%9A%80%20Passionate%20Software%20Developer%20;%20Web%20Development%20;%20Cybersecurity%20;%20Javascript,%20Python,%20Rust%20;%20Intuitive%20Developer%20;%20GATE%20CS%2024%27,%20CS%2025%27%20and%20DA%2025%27%20Qualified)](https://git.io/typing-svg)
 
-🚀 Passionate Software Developer | Web Development | Cybersecurity | Javascript | Python | Rust | Intuitive Developer | GATE CS 24', CS 25' and DA 25' Qualified
 
 
 - 🔭 I’m currently working on MERN, Python, Rust based frameworks
