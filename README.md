@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning to make industry grade projects
 - 👯 I’m looking to collaborate with Developers with a knack to build products 
 - 🤔 I’m looking for help with making industry based apps
-- 💬 Ask me about VueJS,Java,Rust, Linux and Python
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/jyotiraditya-kuanar-8b39b7207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidk799" height="30" width="40" /></a>
