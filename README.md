@@ -16,13 +16,17 @@
 <a href="https://linkedin.com/in/jyotiraditya-kuanar-8b39b7207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidk799" height="30" width="40" /></a>
 
 
-<h3 aligh="center"> My GitHub Stats: </h3>
-<p aligh="center">
+<h3 align="center"> My GitHub Stats: </h3>
+<p align="center">
   
   ![Jyo561's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyo561)
   ![Jyo561's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyo561&theme=blue-green)
 </p>
 
+<h3 align="center"> My Visitors: </h3>
+<p align="center">
+  ![Jyo561's Github](https://profile-counter.glitch.me/Jyo561/count.svg)
+</p>
 <h3 align="center"> Browsers: </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
