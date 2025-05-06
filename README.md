@@ -25,7 +25,7 @@
 
 <h3 align="center"> My Visitors: </h3>
 <p align="center">
-  ![Jyo561's Github](https://profile-counter.glitch.me/Jyo561/count.svg)
+  <img src="https://profile-counter.glitch.me/Jyo561/count.svg" />
 </p>
 <h3 align="center"> Browsers: </h3>
 <p align="center">
