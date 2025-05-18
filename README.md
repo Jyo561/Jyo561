@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/jyotiraditya-kuanar-8b39b7207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidk799" height="30" width="40" /></a>
 <a href="https://x.com/Jyotiradit85974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalidk799" height="30" width="40" /></a>
 <a href="https://bsky.app/profile/jyo561.bsky.social" target="blank"><img align="center" src="https://camo.githubusercontent.com/822d6b1877dd6f53c0ab014cf1332509a248b6653d1dc2ee297c27a985368916/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37612f426c7565736b795f4c6f676f2e7376672f32373270782d426c7565736b795f4c6f676f2e7376672e706e67" alt="khalidk799" height="30" width="40" /></a>
-<a href="https://mastodon.social/@jyo561" target="blank"><img align="center" src="https://github.com/mastodon/mastodon/raw/mainlib/assets/wordmark.light.png?raw=true" alt="khalidk799" height="30" width="40" /></a>
+<a href="https://mastodon.social/@jyo561" target="blank"><img align="center" src="https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png" alt="khalidk799" height="30" width="40" /></a>
 
 
 <h3 align="center"> My GitHub Stats: </h3>
