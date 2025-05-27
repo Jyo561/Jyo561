@@ -24,6 +24,7 @@
   
   ![Jyo561's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyo561)
   ![Jyo561's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyo561&theme=blue-green)
+  ![Jyo561's Combined Stats](https://vc-devboard.vercel.app/stats?github=Jyo561&leetcode=jyom)
 </p>
 
 <h3 align="center"> My Visitors: </h3>
