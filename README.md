@@ -22,9 +22,9 @@
 <h3 align="center"> My GitHub Stats: </h3>
 <p align="center">
   
-  ![Jyo561's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyo561)
+  ![Jyo561's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Jyo561](https://github-readme-stats-one-bice.vercel.app/api?username=Jyo561&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Jyotiraditya%20Kuanar%20Github%20Stats))
   ![Jyo561's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyo561&theme=blue-green)
-  ![Jyo561's Combined Stats](https://vc-devboard.vercel.app/stats?github=Jyo561&leetcode=jyom)
+  ![Jyo561's Combined Stats]([https://vc-devboard.vercel.app/stats?github=Jyo561&leetcode=jyom](https://github-readme-activity-graph.vercel.app/graph?username=Jyo561&custom_title=Jyo561%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"%20alt="GitHub%20Activity%20Graph"))
 </p>
 
 <h3 align="center"> My Visitors: </h3>
