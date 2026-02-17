@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Yew-Frontend-00A3FF?style=for-the-badge&logo=https://github.com/Jyo561/Jyo561/blob/main/logo.svg&logoColor=white">
+    <img src="https://img.shields.io/badge/Yew-00A3FF?style=for-the-badge&logo=https://github.com/Jyo561/Jyo561/blob/main/logo.svg&logoColor=white">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
